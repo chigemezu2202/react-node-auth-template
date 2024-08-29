@@ -1,0 +1,26 @@
+{
+  "name": "advancemernauth",
+  "version": "1.0.0",
+  "description": "🔧 Backend Setup\r 🗄️ Database Setup\r 🔐 Signup Endpoint\r 📧 Sending Verify Account Email\r 🔍 Verify Email Endpoint\r 📄 Building a Welcome Email Template\r 🚪 Logout Endpoint\r 🔑 Login Endpoint\r 🔄 Forgot Password Endpoint\r 🔁 Reset Password Endpoint\r ✔️ Check Auth Endpoint\r 🌐 Frontend Setup\r 📋 Signup Page UI\r 🔓 Login Page UI\r ✅ Email Verification Page UI\r 📤 Implementing Signup\r 📧 Implementing Email Verification\r 🔒 Protecting Our Routes\r 🔑 Implementing Login\r 🏠 Dashboard Page\r 🔄 Implementing Forgot Password\r 🚀 Super Detailed Deployment\r 🙏 Thanks!",
+  "main": "backend/index.js",
+  "scripts": {
+    "dev" : "nodemon backend/index.js"
+  },
+  "keywords": [],
+  "author": "Chigemezu",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mailtrap": "^3.4.0",
+    "mongoose": "^8.5.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
