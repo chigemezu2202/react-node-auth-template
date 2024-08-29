@@ -48,3 +48,17 @@ Implementing Login
 Dashboard Page
 Implementing Forgot Password
 Super Detailed Deployment  Thanks 
+
+# Note
+
+Install the following extentions to better view this project:
+[
+  Better Comments,
+  v0.0.59,
+  {Author: Aaron Bond}
+]
+[
+  CodeTour,
+  v3.0.2,
+  {Author: Jonathan Carter}
+]
