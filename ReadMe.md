@@ -49,7 +49,7 @@ Dashboard Page
 Implementing Forgot Password
 Super Detailed Deployment  Thanks 
 
-# Note
+### Note
 
 Install the following extentions to better view this project:
 ```
