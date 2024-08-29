@@ -47,4 +47,4 @@ Protecting Our Routes
 Implementing Login
 Dashboard Page
 Implementing Forgot Password
-Super Detailed Deployment & Thanks for watching!
+Super Detailed Deployment  Thanks 
